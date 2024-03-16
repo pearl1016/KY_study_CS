@@ -1,0 +1,11 @@
+C:\Users\82102\source\repos\StudyCS\002_bmiForms\bin\Debug\002_bmiForms.exe.config
+C:\Users\82102\source\repos\StudyCS\002_bmiForms\bin\Debug\002_bmiForms.exe
+C:\Users\82102\source\repos\StudyCS\002_bmiForms\bin\Debug\002_bmiForms.pdb
+C:\Users\82102\source\repos\StudyCS\002_bmiForms\obj\Debug\002_bmiForms.csproj.AssemblyReference.cache
+C:\Users\82102\source\repos\StudyCS\002_bmiForms\obj\Debug\002_bmiForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\82102\source\repos\StudyCS\002_bmiForms\obj\Debug\_002_bmiForms.Form1.resources
+C:\Users\82102\source\repos\StudyCS\002_bmiForms\obj\Debug\_002_bmiForms.Properties.Resources.resources
+C:\Users\82102\source\repos\StudyCS\002_bmiForms\obj\Debug\002_bmiForms.csproj.GenerateResource.cache
+C:\Users\82102\source\repos\StudyCS\002_bmiForms\obj\Debug\002_bmiForms.csproj.CoreCompileInputs.cache
+C:\Users\82102\source\repos\StudyCS\002_bmiForms\obj\Debug\002_bmiForms.exe
+C:\Users\82102\source\repos\StudyCS\002_bmiForms\obj\Debug\002_bmiForms.pdb
